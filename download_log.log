@@ -1,0 +1,256 @@
+2024-12-11 17:58:01,669 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 17:58:03,724 - INFO - 找到 5 篇论文。
+
+2024-12-11 17:58:03,724 - INFO - 1/5 已存在，跳过下载: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+2024-12-11 17:58:03,725 - INFO - 2/5 已存在，跳过下载: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+2024-12-11 17:58:03,726 - INFO - 3/5 已存在，跳过下载: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+2024-12-11 17:58:03,726 - INFO - 4/5 已存在，跳过下载: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+2024-12-11 17:58:03,728 - INFO - 5/5 已存在，跳过下载: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+2024-12-11 17:58:03,728 - INFO - 所有下载任务完成。
+2024-12-11 17:58:17,961 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 17:58:17,961 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 17:58:20,648 - INFO - 找到 5 篇论文。
+
+2024-12-11 17:58:20,648 - INFO - 找到 5 篇论文。
+
+2024-12-11 17:58:20,649 - INFO - 1/5 正在下载: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+2024-12-11 17:58:20,649 - INFO - 1/5 正在下载: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+2024-12-11 17:58:22,991 - INFO - 1/5 下载完成: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+
+2024-12-11 17:58:22,991 - INFO - 1/5 下载完成: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+
+2024-12-11 17:58:22,991 - INFO - 2/5 正在下载: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+2024-12-11 17:58:22,991 - INFO - 2/5 正在下载: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+2024-12-11 17:58:28,788 - INFO - 2/5 下载完成: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+
+2024-12-11 17:58:28,788 - INFO - 2/5 下载完成: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+
+2024-12-11 17:58:28,788 - INFO - 3/5 正在下载: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+2024-12-11 17:58:28,788 - INFO - 3/5 正在下载: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+2024-12-11 17:58:30,883 - INFO - 3/5 下载完成: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+
+2024-12-11 17:58:30,883 - INFO - 3/5 下载完成: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+
+2024-12-11 17:58:30,884 - INFO - 4/5 正在下载: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+2024-12-11 17:58:30,884 - INFO - 4/5 正在下载: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+2024-12-11 17:58:32,607 - INFO - 4/5 下载完成: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+
+2024-12-11 17:58:32,607 - INFO - 4/5 下载完成: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+
+2024-12-11 17:58:32,607 - INFO - 5/5 正在下载: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+2024-12-11 17:58:32,607 - INFO - 5/5 正在下载: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+2024-12-11 17:58:33,380 - INFO - 5/5 下载完成: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+
+2024-12-11 17:58:33,380 - INFO - 5/5 下载完成: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+
+2024-12-11 17:58:33,380 - INFO - 所有下载任务完成。
+2024-12-11 17:58:33,380 - INFO - 所有下载任务完成。
+2024-12-11 18:00:10,491 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:01:28,490 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:01:28,490 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:01:28,491 - ERROR - 搜索时发生类型错误: Client.results() got an unexpected keyword argument 'search_query'
+2024-12-11 18:01:28,491 - ERROR - 搜索时发生类型错误: Client.results() got an unexpected keyword argument 'search_query'
+2024-12-11 18:01:33,333 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:01:33,333 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:01:33,333 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:01:33,333 - ERROR - 搜索时发生类型错误: Client.results() got an unexpected keyword argument 'search_query'
+2024-12-11 18:01:33,333 - ERROR - 搜索时发生类型错误: Client.results() got an unexpected keyword argument 'search_query'
+2024-12-11 18:01:33,333 - ERROR - 搜索时发生类型错误: Client.results() got an unexpected keyword argument 'search_query'
+2024-12-11 18:01:38,475 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:01:38,475 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:01:38,475 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:01:38,475 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:01:38,475 - ERROR - 搜索时发生类型错误: Client.results() got an unexpected keyword argument 'search_query'
+2024-12-11 18:01:38,475 - ERROR - 搜索时发生类型错误: Client.results() got an unexpected keyword argument 'search_query'
+2024-12-11 18:01:38,475 - ERROR - 搜索时发生类型错误: Client.results() got an unexpected keyword argument 'search_query'
+2024-12-11 18:01:38,475 - ERROR - 搜索时发生类型错误: Client.results() got an unexpected keyword argument 'search_query'
+2024-12-11 18:03:13,790 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:03:13,790 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:03:13,790 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:03:13,790 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:03:13,790 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:03:16,990 - INFO - 找到 5 篇论文。
+
+2024-12-11 18:03:16,990 - INFO - 找到 5 篇论文。
+
+2024-12-11 18:03:16,990 - INFO - 找到 5 篇论文。
+
+2024-12-11 18:03:16,990 - INFO - 找到 5 篇论文。
+
+2024-12-11 18:03:16,990 - INFO - 找到 5 篇论文。
+
+2024-12-11 18:03:16,990 - INFO - 1/5 正在下载: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+2024-12-11 18:03:16,990 - INFO - 1/5 正在下载: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+2024-12-11 18:03:16,990 - INFO - 1/5 正在下载: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+2024-12-11 18:03:16,990 - INFO - 1/5 正在下载: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+2024-12-11 18:03:16,990 - INFO - 1/5 正在下载: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+2024-12-11 18:03:20,432 - INFO - 1/5 下载完成: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+
+2024-12-11 18:03:20,432 - INFO - 1/5 下载完成: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+
+2024-12-11 18:03:20,432 - INFO - 1/5 下载完成: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+
+2024-12-11 18:03:20,432 - INFO - 1/5 下载完成: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+
+2024-12-11 18:03:20,432 - INFO - 1/5 下载完成: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+
+2024-12-11 18:03:20,433 - INFO - 2/5 正在下载: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+2024-12-11 18:03:20,433 - INFO - 2/5 正在下载: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+2024-12-11 18:03:20,433 - INFO - 2/5 正在下载: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+2024-12-11 18:03:20,433 - INFO - 2/5 正在下载: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+2024-12-11 18:03:20,433 - INFO - 2/5 正在下载: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+2024-12-11 18:03:26,974 - INFO - 2/5 下载完成: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+
+2024-12-11 18:03:26,974 - INFO - 2/5 下载完成: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+
+2024-12-11 18:03:26,974 - INFO - 2/5 下载完成: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+
+2024-12-11 18:03:26,974 - INFO - 2/5 下载完成: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+
+2024-12-11 18:03:26,974 - INFO - 2/5 下载完成: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+
+2024-12-11 18:03:26,974 - INFO - 3/5 正在下载: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+2024-12-11 18:03:26,974 - INFO - 3/5 正在下载: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+2024-12-11 18:03:26,974 - INFO - 3/5 正在下载: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+2024-12-11 18:03:26,974 - INFO - 3/5 正在下载: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+2024-12-11 18:03:26,974 - INFO - 3/5 正在下载: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+2024-12-11 18:03:29,299 - INFO - 3/5 下载完成: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+
+2024-12-11 18:03:29,299 - INFO - 3/5 下载完成: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+
+2024-12-11 18:03:29,299 - INFO - 3/5 下载完成: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+
+2024-12-11 18:03:29,299 - INFO - 3/5 下载完成: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+
+2024-12-11 18:03:29,299 - INFO - 3/5 下载完成: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+
+2024-12-11 18:03:29,299 - INFO - 4/5 正在下载: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+2024-12-11 18:03:29,299 - INFO - 4/5 正在下载: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+2024-12-11 18:03:29,299 - INFO - 4/5 正在下载: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+2024-12-11 18:03:29,299 - INFO - 4/5 正在下载: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+2024-12-11 18:03:29,299 - INFO - 4/5 正在下载: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+2024-12-11 18:03:31,395 - INFO - 4/5 下载完成: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+
+2024-12-11 18:03:31,395 - INFO - 4/5 下载完成: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+
+2024-12-11 18:03:31,395 - INFO - 4/5 下载完成: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+
+2024-12-11 18:03:31,395 - INFO - 4/5 下载完成: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+
+2024-12-11 18:03:31,395 - INFO - 4/5 下载完成: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+
+2024-12-11 18:03:31,396 - INFO - 5/5 正在下载: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+2024-12-11 18:03:31,396 - INFO - 5/5 正在下载: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+2024-12-11 18:03:31,396 - INFO - 5/5 正在下载: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+2024-12-11 18:03:31,396 - INFO - 5/5 正在下载: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+2024-12-11 18:03:31,396 - INFO - 5/5 正在下载: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+2024-12-11 18:03:32,406 - INFO - 5/5 下载完成: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+
+2024-12-11 18:03:32,406 - INFO - 5/5 下载完成: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+
+2024-12-11 18:03:32,406 - INFO - 5/5 下载完成: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+
+2024-12-11 18:03:32,406 - INFO - 5/5 下载完成: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+
+2024-12-11 18:03:32,406 - INFO - 5/5 下载完成: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+
+2024-12-11 18:03:32,408 - INFO - 所有下载任务完成。
+2024-12-11 18:03:32,408 - INFO - 所有下载任务完成。
+2024-12-11 18:03:32,408 - INFO - 所有下载任务完成。
+2024-12-11 18:03:32,408 - INFO - 所有下载任务完成。
+2024-12-11 18:03:32,408 - INFO - 所有下载任务完成。
+2024-12-11 18:03:59,244 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:03:59,244 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:03:59,244 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:03:59,244 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:03:59,244 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:04:01,537 - INFO - 找到 5 篇论文。
+
+2024-12-11 18:04:01,537 - INFO - 找到 5 篇论文。
+
+2024-12-11 18:04:01,537 - INFO - 找到 5 篇论文。
+
+2024-12-11 18:04:01,537 - INFO - 找到 5 篇论文。
+
+2024-12-11 18:04:01,537 - INFO - 找到 5 篇论文。
+
+2024-12-11 18:04:01,537 - INFO - 1/5 正在下载: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+2024-12-11 18:04:01,537 - INFO - 1/5 正在下载: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+2024-12-11 18:04:01,537 - INFO - 1/5 正在下载: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+2024-12-11 18:04:01,537 - INFO - 1/5 正在下载: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+2024-12-11 18:04:01,537 - INFO - 1/5 正在下载: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+2024-12-11 18:04:05,018 - INFO - 1/5 下载完成: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+
+2024-12-11 18:04:05,018 - INFO - 1/5 下载完成: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+
+2024-12-11 18:04:05,018 - INFO - 1/5 下载完成: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+
+2024-12-11 18:04:05,018 - INFO - 1/5 下载完成: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+
+2024-12-11 18:04:05,018 - INFO - 1/5 下载完成: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+
+2024-12-11 18:04:05,018 - INFO - 2/5 正在下载: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+2024-12-11 18:04:05,018 - INFO - 2/5 正在下载: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+2024-12-11 18:04:05,018 - INFO - 2/5 正在下载: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+2024-12-11 18:04:05,018 - INFO - 2/5 正在下载: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+2024-12-11 18:04:05,018 - INFO - 2/5 正在下载: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+2024-12-11 18:04:10,596 - INFO - 2/5 下载完成: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+
+2024-12-11 18:04:10,596 - INFO - 2/5 下载完成: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+
+2024-12-11 18:04:10,596 - INFO - 2/5 下载完成: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+
+2024-12-11 18:04:10,596 - INFO - 2/5 下载完成: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+
+2024-12-11 18:04:10,596 - INFO - 2/5 下载完成: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+
+2024-12-11 18:04:10,597 - INFO - 3/5 正在下载: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+2024-12-11 18:04:10,597 - INFO - 3/5 正在下载: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+2024-12-11 18:04:10,597 - INFO - 3/5 正在下载: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+2024-12-11 18:04:10,597 - INFO - 3/5 正在下载: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+2024-12-11 18:04:10,597 - INFO - 3/5 正在下载: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+2024-12-11 18:04:14,296 - INFO - 3/5 下载完成: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+
+2024-12-11 18:04:14,296 - INFO - 3/5 下载完成: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+
+2024-12-11 18:04:14,296 - INFO - 3/5 下载完成: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+
+2024-12-11 18:04:14,296 - INFO - 3/5 下载完成: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+
+2024-12-11 18:04:14,296 - INFO - 3/5 下载完成: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+
+2024-12-11 18:04:14,297 - INFO - 4/5 正在下载: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+2024-12-11 18:04:14,297 - INFO - 4/5 正在下载: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+2024-12-11 18:04:14,297 - INFO - 4/5 正在下载: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+2024-12-11 18:04:14,297 - INFO - 4/5 正在下载: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+2024-12-11 18:04:14,297 - INFO - 4/5 正在下载: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+2024-12-11 18:04:16,567 - INFO - 4/5 下载完成: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+
+2024-12-11 18:04:16,567 - INFO - 4/5 下载完成: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+
+2024-12-11 18:04:16,567 - INFO - 4/5 下载完成: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+
+2024-12-11 18:04:16,567 - INFO - 4/5 下载完成: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+
+2024-12-11 18:04:16,567 - INFO - 4/5 下载完成: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+
+2024-12-11 18:04:16,568 - INFO - 5/5 正在下载: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+2024-12-11 18:04:16,568 - INFO - 5/5 正在下载: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+2024-12-11 18:04:16,568 - INFO - 5/5 正在下载: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+2024-12-11 18:04:16,568 - INFO - 5/5 正在下载: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+2024-12-11 18:04:16,568 - INFO - 5/5 正在下载: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+2024-12-11 18:04:17,546 - INFO - 5/5 下载完成: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+
+2024-12-11 18:04:17,546 - INFO - 5/5 下载完成: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+
+2024-12-11 18:04:17,546 - INFO - 5/5 下载完成: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+
+2024-12-11 18:04:17,546 - INFO - 5/5 下载完成: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+
+2024-12-11 18:04:17,546 - INFO - 5/5 下载完成: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+
+2024-12-11 18:04:17,547 - INFO - 所有下载任务完成。
+2024-12-11 18:04:17,547 - INFO - 所有下载任务完成。
+2024-12-11 18:04:17,547 - INFO - 所有下载任务完成。
+2024-12-11 18:04:17,547 - INFO - 所有下载任务完成。
+2024-12-11 18:04:17,547 - INFO - 所有下载任务完成。

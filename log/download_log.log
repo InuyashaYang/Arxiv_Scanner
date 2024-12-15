@@ -1,0 +1,61 @@
+2024-12-11 18:03:59,244 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-11 18:04:01,537 - INFO - 找到 5 篇论文。
+
+2024-12-11 18:04:01,537 - INFO - 1/5 正在下载: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+2024-12-11 18:04:05,018 - INFO - 1/5 下载完成: 2412.07775v1 - Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets.pdf
+
+2024-12-11 18:04:05,018 - INFO - 2/5 正在下载: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+2024-12-11 18:04:10,596 - INFO - 2/5 下载完成: 2412.07776v1 - Video Motion Transfer with Diffusion Transformers.pdf
+
+2024-12-11 18:04:10,597 - INFO - 3/5 正在下载: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+2024-12-11 18:04:14,296 - INFO - 3/5 下载完成: 2412.07774v1 - UniReal Universal Image Generation and Editing via Learning Real-world Dynamics.pdf
+
+2024-12-11 18:04:14,297 - INFO - 4/5 正在下载: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+2024-12-11 18:04:16,567 - INFO - 4/5 下载完成: 2412.07773v1 - Mobile-TeleVision Predictive Motion Priors for Humanoid Whole-Body Control.pdf
+
+2024-12-11 18:04:16,568 - INFO - 5/5 正在下载: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+2024-12-11 18:04:17,546 - INFO - 5/5 下载完成: 2412.07771v1 - PETALface Parameter Efficient Transfer Learning for Low-resolution Face Recognition.pdf
+
+2024-12-11 18:04:17,547 - INFO - 所有下载任务完成。
+2024-12-13 14:56:25,422 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-13 14:58:35,713 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-13 14:58:35,713 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-13 14:58:39,795 - INFO - 找到 5 篇论文。
+
+2024-12-13 14:58:39,795 - INFO - 找到 5 篇论文。
+
+2024-12-13 14:58:39,795 - INFO - 1/5 正在下载: 2412.09627v1 - Doe-1 Closed-Loop Autonomous Driving with Large World Model.pdf
+2024-12-13 14:58:39,795 - INFO - 1/5 正在下载: 2412.09627v1 - Doe-1 Closed-Loop Autonomous Driving with Large World Model.pdf
+2024-12-13 14:59:05,198 - INFO - 1/5 下载完成: 2412.09627v1 - Doe-1 Closed-Loop Autonomous Driving with Large World Model.pdf
+
+2024-12-13 14:59:05,198 - INFO - 1/5 下载完成: 2412.09627v1 - Doe-1 Closed-Loop Autonomous Driving with Large World Model.pdf
+
+2024-12-13 14:59:05,198 - INFO - 2/5 正在下载: 2412.09620v1 - Learning Camera Movement Control from Real-World Drone Videos.pdf
+2024-12-13 14:59:05,198 - INFO - 2/5 正在下载: 2412.09620v1 - Learning Camera Movement Control from Real-World Drone Videos.pdf
+2024-12-13 14:59:34,731 - INFO - 2/5 下载完成: 2412.09620v1 - Learning Camera Movement Control from Real-World Drone Videos.pdf
+
+2024-12-13 14:59:34,731 - INFO - 2/5 下载完成: 2412.09620v1 - Learning Camera Movement Control from Real-World Drone Videos.pdf
+
+2024-12-13 14:59:34,732 - INFO - 3/5 正在下载: 2412.09621v1 - Stereo4D Learning How Things Move in 3D from Internet Stereo Videos.pdf
+2024-12-13 14:59:34,732 - INFO - 3/5 正在下载: 2412.09621v1 - Stereo4D Learning How Things Move in 3D from Internet Stereo Videos.pdf
+2024-12-13 15:00:15,074 - INFO - 3/5 下载完成: 2412.09621v1 - Stereo4D Learning How Things Move in 3D from Internet Stereo Videos.pdf
+
+2024-12-13 15:00:15,074 - INFO - 3/5 下载完成: 2412.09621v1 - Stereo4D Learning How Things Move in 3D from Internet Stereo Videos.pdf
+
+2024-12-13 15:00:15,074 - INFO - 4/5 正在下载: 2412.09611v1 - FluxSpace Disentangled Semantic Editing in Rectified Flow Transformers.pdf
+2024-12-13 15:00:15,074 - INFO - 4/5 正在下载: 2412.09611v1 - FluxSpace Disentangled Semantic Editing in Rectified Flow Transformers.pdf
+2024-12-13 15:00:53,923 - INFO - 4/5 下载完成: 2412.09611v1 - FluxSpace Disentangled Semantic Editing in Rectified Flow Transformers.pdf
+
+2024-12-13 15:00:53,923 - INFO - 4/5 下载完成: 2412.09611v1 - FluxSpace Disentangled Semantic Editing in Rectified Flow Transformers.pdf
+
+2024-12-13 15:00:53,923 - INFO - 5/5 正在下载: 2412.09610v1 - The S-matrix bootstrap with neural optimizers I zero double discontinuity.pdf
+2024-12-13 15:00:53,923 - INFO - 5/5 正在下载: 2412.09610v1 - The S-matrix bootstrap with neural optimizers I zero double discontinuity.pdf
+2024-12-13 15:00:57,427 - INFO - 5/5 下载完成: 2412.09610v1 - The S-matrix bootstrap with neural optimizers I zero double discontinuity.pdf
+
+2024-12-13 15:00:57,427 - INFO - 5/5 下载完成: 2412.09610v1 - The S-matrix bootstrap with neural optimizers I zero double discontinuity.pdf
+
+2024-12-13 15:00:57,428 - INFO - 所有下载任务完成。
+2024-12-13 15:00:57,428 - INFO - 所有下载任务完成。
+2024-12-13 15:46:01,261 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-13 15:46:01,261 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-13 15:46:01,261 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
