@@ -59,3 +59,159 @@
 2024-12-13 15:46:01,261 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
 2024-12-13 15:46:01,261 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
 2024-12-13 15:46:01,261 - INFO - 正在搜索关键词：'machine learning'，最多 5 个结果...
+2024-12-15 20:28:33,765 - INFO - 正在搜索关键词：'machine learning'，最多 50 个结果...
+2024-12-15 20:28:39,429 - INFO - 找到 50 篇论文。
+
+2024-12-15 20:28:39,429 - INFO - 1/50 正在下载: 2412.09627v1 - Doe-1 Closed-Loop Autonomous Driving with Large World Model.pdf
+2024-12-15 20:29:28,552 - INFO - 1/50 下载完成: 2412.09627v1 - Doe-1 Closed-Loop Autonomous Driving with Large World Model.pdf
+
+2024-12-15 20:29:28,552 - INFO - 2/50 正在下载: 2412.09620v1 - Learning Camera Movement Control from Real-World Drone Videos.pdf
+2024-12-15 20:30:35,776 - INFO - 2/50 下载完成: 2412.09620v1 - Learning Camera Movement Control from Real-World Drone Videos.pdf
+
+2024-12-15 20:30:35,776 - INFO - 3/50 正在下载: 2412.09621v1 - Stereo4D Learning How Things Move in 3D from Internet Stereo Videos.pdf
+2024-12-15 20:31:40,008 - INFO - 3/50 下载完成: 2412.09621v1 - Stereo4D Learning How Things Move in 3D from Internet Stereo Videos.pdf
+
+2024-12-15 20:31:40,008 - INFO - 4/50 正在下载: 2412.09611v1 - FluxSpace Disentangled Semantic Editing in Rectified Flow Transformers.pdf
+2024-12-15 20:32:22,619 - INFO - 4/50 下载完成: 2412.09611v1 - FluxSpace Disentangled Semantic Editing in Rectified Flow Transformers.pdf
+
+2024-12-15 20:32:22,619 - INFO - 5/50 正在下载: 2412.09610v1 - The S-matrix bootstrap with neural optimizers I zero double discontinuity.pdf
+2024-12-15 20:32:32,484 - INFO - 5/50 下载完成: 2412.09610v1 - The S-matrix bootstrap with neural optimizers I zero double discontinuity.pdf
+
+2024-12-15 20:32:32,484 - INFO - 6/50 正在下载: 2412.09607v1 - Spectral Image Tokenizer.pdf
+2024-12-15 20:33:16,947 - INFO - 6/50 下载完成: 2412.09607v1 - Spectral Image Tokenizer.pdf
+
+2024-12-15 20:33:16,947 - INFO - 7/50 正在下载: 2412.09602v1 - Hidden Biases of End-to-End Driving Datasets.pdf
+2024-12-15 20:33:56,274 - INFO - 7/50 下载完成: 2412.09602v1 - Hidden Biases of End-to-End Driving Datasets.pdf
+
+2024-12-15 20:33:56,274 - INFO - 8/50 正在下载: 2412.09600v1 - Owl-1 Omni World Model for Consistent Long Video Generation.pdf
+2024-12-15 20:34:16,190 - INFO - 8/50 下载完成: 2412.09600v1 - Owl-1 Omni World Model for Consistent Long Video Generation.pdf
+
+2024-12-15 20:34:16,191 - INFO - 9/50 正在下载: 2412.09599v1 - RatBodyFormer Rodent Body Surface from Keypoints.pdf
+2024-12-15 20:34:36,797 - INFO - 9/50 下载完成: 2412.09599v1 - RatBodyFormer Rodent Body Surface from Keypoints.pdf
+
+2024-12-15 20:34:36,797 - INFO - 10/50 正在下载: 2412.09597v1 - LiftImage3D Lifting Any Single Image to 3D Gaussians with Video Generation Priors.pdf
+2024-12-15 20:35:10,958 - INFO - 10/50 下载完成: 2412.09597v1 - LiftImage3D Lifting Any Single Image to 3D Gaussians with Video Generation Priors.pdf
+
+2024-12-15 20:35:10,958 - INFO - 11/50 正在下载: 2412.09594v1 - Wait-Less Offline Tuning and Re-solving for Online Decision Making.pdf
+2024-12-15 20:35:19,025 - INFO - 11/50 下载完成: 2412.09594v1 - Wait-Less Offline Tuning and Re-solving for Online Decision Making.pdf
+
+2024-12-15 20:35:19,025 - INFO - 12/50 正在下载: 2412.09586v1 - Gaze-LLE Gaze Target Estimation via Large-Scale Learned Encoders.pdf
+2024-12-15 20:36:16,579 - ERROR - 下载失败: http://arxiv.org/pdf/2412.09586v1
+错误信息: HTTPConnectionPool(host='127.0.0.1', port=21882): Read timed out.
+2024-12-15 20:36:16,579 - INFO - 12/50 下载完成: 2412.09586v1 - Gaze-LLE Gaze Target Estimation via Large-Scale Learned Encoders.pdf
+
+2024-12-15 20:36:16,579 - INFO - 13/50 正在下载: 2412.09584v1 - BaB-ND Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics.pdf
+2024-12-15 20:36:31,191 - INFO - 13/50 下载完成: 2412.09584v1 - BaB-ND Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics.pdf
+
+2024-12-15 20:36:31,191 - INFO - 14/50 正在下载: 2412.09582v1 - Neptune The Long Orbit to Benchmarking Long Video Understanding.pdf
+2024-12-15 20:36:49,110 - INFO - 14/50 下载完成: 2412.09582v1 - Neptune The Long Orbit to Benchmarking Long Video Understanding.pdf
+
+2024-12-15 20:36:49,110 - INFO - 15/50 正在下载: 2412.09579v1 - A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks.pdf
+2024-12-15 20:36:52,342 - INFO - 15/50 下载完成: 2412.09579v1 - A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks.pdf
+
+2024-12-15 20:36:52,342 - INFO - 16/50 正在下载: 2412.09569v1 - JuStRank Benchmarking LLM Judges for System Ranking.pdf
+2024-12-15 20:37:02,709 - INFO - 16/50 下载完成: 2412.09569v1 - JuStRank Benchmarking LLM Judges for System Ranking.pdf
+
+2024-12-15 20:37:02,709 - INFO - 17/50 正在下载: 2412.09565v1 - Obfuscated Activations Bypass LLM Latent-Space Defenses.pdf
+2024-12-15 20:37:11,888 - INFO - 17/50 下载完成: 2412.09565v1 - Obfuscated Activations Bypass LLM Latent-Space Defenses.pdf
+
+2024-12-15 20:37:11,888 - INFO - 18/50 正在下载: 2412.09564v1 - Improving the Reliability of Cable Broadband Networks via Proactive Network Maintenance.pdf
+2024-12-15 20:37:15,645 - INFO - 18/50 下载完成: 2412.09564v1 - Improving the Reliability of Cable Broadband Networks via Proactive Network Maintenance.pdf
+
+2024-12-15 20:37:15,645 - INFO - 19/50 正在下载: 2412.09563v1 - Does Representation Matter Exploring Intermediate Layers in Large Language Models.pdf
+2024-12-15 20:37:18,389 - INFO - 19/50 下载完成: 2412.09563v1 - Does Representation Matter Exploring Intermediate Layers in Large Language Models.pdf
+
+2024-12-15 20:37:18,389 - INFO - 20/50 正在下载: 2412.09557v1 - Experimental Machine Learning with Classical and Quantum Data via NMR Quantum Kernels.pdf
+2024-12-15 20:37:23,997 - INFO - 20/50 下载完成: 2412.09557v1 - Experimental Machine Learning with Classical and Quantum Data via NMR Quantum Kernels.pdf
+
+2024-12-15 20:37:24,005 - INFO - 21/50 正在下载: 2412.09556v1 - Enhancing Convergence of Decentralized Gradient Tracking under the KL Property.pdf
+2024-12-15 20:37:28,063 - INFO - 21/50 下载完成: 2412.09556v1 - Enhancing Convergence of Decentralized Gradient Tracking under the KL Property.pdf
+
+2024-12-15 20:37:28,063 - INFO - 22/50 正在下载: 2412.09551v1 - Video Creation by Demonstration.pdf
+2024-12-15 20:37:35,746 - INFO - 22/50 下载完成: 2412.09551v1 - Video Creation by Demonstration.pdf
+
+2024-12-15 20:37:35,746 - INFO - 23/50 正在下载: 2412.09549v1 - Exemplar Masking for Multimodal Incremental Learning.pdf
+2024-12-15 20:37:52,347 - INFO - 23/50 下载完成: 2412.09549v1 - Exemplar Masking for Multimodal Incremental Learning.pdf
+
+2024-12-15 20:37:52,347 - INFO - 24/50 正在下载: 2412.09545v1 - SimAvatar Simulation-Ready Avatars with Layered Hair and Clothing.pdf
+2024-12-15 20:38:31,209 - INFO - 24/50 下载完成: 2412.09545v1 - SimAvatar Simulation-Ready Avatars with Layered Hair and Clothing.pdf
+
+2024-12-15 20:38:31,209 - INFO - 25/50 正在下载: 2412.09544v1 - Sail into the Headwind Alignment via Robust Rewards and Dynamic Labels against Reward Hacking.pdf
+2024-12-15 20:38:37,018 - INFO - 25/50 下载完成: 2412.09544v1 - Sail into the Headwind Alignment via Robust Rewards and Dynamic Labels against Reward Hacking.pdf
+
+2024-12-15 20:38:37,018 - INFO - 26/50 正在下载: 2412.09538v1 - Capturing the Temporal Dependence of Training Data Influence.pdf
+2024-12-15 20:38:46,604 - INFO - 26/50 下载完成: 2412.09538v1 - Capturing the Temporal Dependence of Training Data Influence.pdf
+
+2024-12-15 20:38:46,604 - INFO - 27/50 正在下载: 2412.09520v1 - GainAdaptor Learning Quadrupedal Locomotion with Dual Actors for Adaptable and Energy-Efficient Walking on Various Terrains.pdf
+2024-12-15 20:39:00,957 - INFO - 27/50 下载完成: 2412.09520v1 - GainAdaptor Learning Quadrupedal Locomotion with Dual Actors for Adaptable and Energy-Efficient Walking on Various Terrains.pdf
+
+2024-12-15 20:39:00,958 - INFO - 28/50 正在下载: 2412.09518v1 - Clifford Perturbation Approximation for Quantum Error Mitigation.pdf
+2024-12-15 20:39:05,120 - INFO - 28/50 下载完成: 2412.09518v1 - Clifford Perturbation Approximation for Quantum Error Mitigation.pdf
+
+2024-12-15 20:39:05,120 - INFO - 29/50 正在下载: 2412.09517v1 - Geometric Deep Learning for Realized Covariance Matrix Forecasting.pdf
+2024-12-15 20:39:08,026 - INFO - 29/50 下载完成: 2412.09517v1 - Geometric Deep Learning for Realized Covariance Matrix Forecasting.pdf
+
+2024-12-15 20:39:08,026 - INFO - 30/50 正在下载: 2412.09511v1 - GEAL Generalizable 3D Affordance Learning with Cross-Modal Consistency.pdf
+2024-12-15 20:39:20,457 - INFO - 30/50 下载完成: 2412.09511v1 - GEAL Generalizable 3D Affordance Learning with Cross-Modal Consistency.pdf
+
+2024-12-15 20:39:20,465 - INFO - 31/50 正在下载: 2412.09504v1 - High Precision Binding Energies from Physics Informed Machine Learning.pdf
+2024-12-15 20:39:33,920 - INFO - 31/50 下载完成: 2412.09504v1 - High Precision Binding Energies from Physics Informed Machine Learning.pdf
+
+2024-12-15 20:39:33,920 - INFO - 32/50 正在下载: 2412.09500v1 - Loss function to optimise signal significance in particle physics.pdf
+2024-12-15 20:39:41,132 - INFO - 32/50 下载完成: 2412.09500v1 - Loss function to optimise signal significance in particle physics.pdf
+
+2024-12-15 20:39:41,140 - INFO - 33/50 正在下载: 2412.09499v1 - A novel ML-fuzzy control system for optimizing PHEV fuel efficiency and extending electric range under diverse driving conditions.pdf
+2024-12-15 20:40:33,792 - INFO - 33/50 下载完成: 2412.09499v1 - A novel ML-fuzzy control system for optimizing PHEV fuel efficiency and extending electric range under diverse driving conditions.pdf
+
+2024-12-15 20:40:33,792 - INFO - 34/50 正在下载: 2412.09498v1 - Gradient descent inference in empirical risk minimization.pdf
+2024-12-15 20:40:38,206 - INFO - 34/50 下载完成: 2412.09498v1 - Gradient descent inference in empirical risk minimization.pdf
+
+2024-12-15 20:40:38,206 - INFO - 35/50 正在下载: 2412.09496v1 - iKap Kinematics-aware Planning with Imperative Learning.pdf
+2024-12-15 20:40:45,445 - INFO - 35/50 下载完成: 2412.09496v1 - iKap Kinematics-aware Planning with Imperative Learning.pdf
+
+2024-12-15 20:40:45,445 - INFO - 36/50 正在下载: 2412.09486v1 - Regression and Classification with Single-Qubit Quantum Neural Networks.pdf
+2024-12-15 20:41:06,218 - INFO - 36/50 下载完成: 2412.09486v1 - Regression and Classification with Single-Qubit Quantum Neural Networks.pdf
+
+2024-12-15 20:41:06,218 - INFO - 37/50 正在下载: 2412.09483v1 - Early Detection of At-Risk Students Using Machine Learning.pdf
+2024-12-15 20:41:16,885 - INFO - 37/50 下载完成: 2412.09483v1 - Early Detection of At-Risk Students Using Machine Learning.pdf
+
+2024-12-15 20:41:16,886 - INFO - 38/50 正在下载: 2412.09480v1 - The Parameters of Educability.pdf
+2024-12-15 20:41:18,979 - INFO - 38/50 下载完成: 2412.09480v1 - The Parameters of Educability.pdf
+
+2024-12-15 20:41:18,980 - INFO - 39/50 正在下载: 2412.09477v1 - Bayesian Optimization via Continual Variational Last Layer Training.pdf
+2024-12-15 20:41:26,073 - INFO - 39/50 下载完成: 2412.09477v1 - Bayesian Optimization via Continual Variational Last Layer Training.pdf
+
+2024-12-15 20:41:26,074 - INFO - 40/50 正在下载: 2412.09472v1 - A Novel Ensemble-Based Deep Learning Model with Explainable AI for Accurate Kidney Disease Diagnosis.pdf
+2024-12-15 20:41:29,784 - INFO - 40/50 下载完成: 2412.09472v1 - A Novel Ensemble-Based Deep Learning Model with Explainable AI for Accurate Kidney Disease Diagnosis.pdf
+
+2024-12-15 20:41:29,785 - INFO - 41/50 正在下载: 2412.09469v1 - Neural Network Symmetrisation in Concrete Settings.pdf
+2024-12-15 20:41:32,320 - INFO - 41/50 下载完成: 2412.09469v1 - Neural Network Symmetrisation in Concrete Settings.pdf
+
+2024-12-15 20:41:32,321 - INFO - 42/50 正在下载: 2412.09468v1 - STORM A Spatio-Temporal Factor Model Based on Dual Vector Quantized Variational Autoencoders for Financial Trading.pdf
+2024-12-15 20:41:36,874 - INFO - 42/50 下载完成: 2412.09468v1 - STORM A Spatio-Temporal Factor Model Based on Dual Vector Quantized Variational Autoencoders for Financial Trading.pdf
+
+2024-12-15 20:41:36,875 - INFO - 43/50 正在下载: 2412.09466v1 - Distributional Reinforcement Learning based Integrated Decision Making and Control for Autonomous Surface Vehicles.pdf
+2024-12-15 20:41:44,997 - INFO - 43/50 下载完成: 2412.09466v1 - Distributional Reinforcement Learning based Integrated Decision Making and Control for Autonomous Surface Vehicles.pdf
+
+2024-12-15 20:41:45,005 - INFO - 44/50 正在下载: 2412.09465v1 - OFTSR One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs.pdf
+2024-12-15 20:41:52,618 - INFO - 44/50 下载完成: 2412.09465v1 - OFTSR One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs.pdf
+
+2024-12-15 20:41:52,618 - INFO - 45/50 正在下载: 2412.09453v1 - Finite-PINN A Physics-Informed Neural Network Architecture for Solving Solid Mechanics Problems with General Geometries.pdf
+2024-12-15 20:42:35,579 - INFO - 45/50 下载完成: 2412.09453v1 - Finite-PINN A Physics-Informed Neural Network Architecture for Solving Solid Mechanics Problems with General Geometries.pdf
+
+2024-12-15 20:42:35,579 - INFO - 46/50 正在下载: 2412.09445v1 - Embeddings are all you need! Achieving High Performance Medical Image Classification through Training-Free Embedding Analysis.pdf
+2024-12-15 20:42:51,242 - INFO - 46/50 下载完成: 2412.09445v1 - Embeddings are all you need! Achieving High Performance Medical Image Classification through Training-Free Embedding Analysis.pdf
+
+2024-12-15 20:42:51,242 - INFO - 47/50 正在下载: 2412.09444v1 - Search Strategy Generation for Branch and Bound Using Genetic Programming.pdf
+2024-12-15 20:42:54,678 - INFO - 47/50 下载完成: 2412.09444v1 - Search Strategy Generation for Branch and Bound Using Genetic Programming.pdf
+
+2024-12-15 20:42:54,678 - INFO - 48/50 正在下载: 2412.09441v1 - MOS Model Surgery for Pre-Trained Model-Based Class-Incremental Learning.pdf
+2024-12-15 20:43:01,358 - INFO - 48/50 下载完成: 2412.09441v1 - MOS Model Surgery for Pre-Trained Model-Based Class-Incremental Learning.pdf
+
+2024-12-15 20:43:01,358 - INFO - 49/50 正在下载: 2412.09442v1 - ATPrompt Textual Prompt Learning with Embedded Attributes.pdf
+2024-12-15 20:43:05,944 - INFO - 49/50 下载完成: 2412.09442v1 - ATPrompt Textual Prompt Learning with Embedded Attributes.pdf
+
+2024-12-15 20:43:05,952 - INFO - 50/50 正在下载: 2412.09440v1 - Learning to Adapt Bio-Inspired Gait Strategies for Versatile Quadruped Locomotion.pdf
+2024-12-15 20:44:12,220 - INFO - 50/50 下载完成: 2412.09440v1 - Learning to Adapt Bio-Inspired Gait Strategies for Versatile Quadruped Locomotion.pdf
+
+2024-12-15 20:44:12,220 - INFO - 所有下载任务完成。

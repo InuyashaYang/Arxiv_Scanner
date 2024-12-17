@@ -375,7 +375,7 @@ class Reviewer:
         print("评审报告生成完成。")
         return review_report
 
-    def process_file(self, file_data, max_length_dict):
+    def process_file(self, file_data):
         """
         处理单个文件的数据，生成评审报告。
         参数:
@@ -392,7 +392,7 @@ class Reviewer:
         
         # Step 2: 对章节文本进行长度控制
         print("步骤2: 对章节文本进行长度控制。")
-        processed_sections = self.compress_sections(sections, max_length_dict)
+        processed_sections = self.compress_sections(sections)
         
         # Step 3: 生成阅读笔记
         print("步骤3: 生成阅读笔记。")

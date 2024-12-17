@@ -290,32 +290,78 @@ class PDFProcessor:
             }
 
         return section_dict
-
-    def process_directory_to_json(self, pdf_dir: str, output_json_path: str = 'output.json') -> None:
+    
+    def process_txt(self, txt_path: str) -> Optional[Dict[str, Dict[str, Any]]]:
         """
-        Processes all PDF files in a specified directory and writes the extracted information to a JSON file.
+        Processes a single text file to extract and filter its chapters, including their ranges.
 
             Args:
-                pdf_dir (str): The path to the directory containing PDF files.
+                txt_path (str): The path to the text file.
+
+            Returns:
+                Optional[Dict[str, Dict[str, Any]]]: A dictionary mapping chapter names to their extracted text and ranges.
+                Returns None if processing fails.
+        """
+        with open(txt_path, 'r', encoding='utf-8') as file:
+            extracted_text = file.read()
+        if not extracted_text:
+            return None
+
+        print(f"Processing '{os.path.basename(txt_path)}'...")
+
+        # Optional: Clean specific formatting issues
+        extracted_text = extracted_text.replace("I NTRODUCTION", "INTRODUCTION")
+        extracted_text = extracted_text.replace("C ONCLUSION", "CONCLUSION")
+
+        split_sections = self.filter_iclr_pdf(extracted_text)
+        if not split_sections:
+            return None
+
+        # Organize sections into a dictionary
+        section_dict = {}
+        for sec in split_sections:
+            section_name = sec['section']
+            section_dict[section_name] = {
+                'text': sec['text'],
+                'start': sec['start'],
+                'end': sec['end'],
+                'length': sec['length']
+            }
+
+        return section_dict
+        
+    def process_directory_to_json(self, input_dir: str, output_json_path: str = 'output.json') -> None:
+        """
+        Processes all PDF and TXT files in a specified directory and writes the extracted information to a JSON file.
+
+            Args:
+                input_dir (str): The path to the directory containing PDF and TXT files.
                 output_json_path (str): The path where the JSON output will be saved.
         """
-        if not os.path.isdir(pdf_dir):
-            print(f"目录 '{pdf_dir}' 不存在。")
+        if not os.path.isdir(input_dir):
+            print(f"目录 '{input_dir}' 不存在。")
             return
 
         result = {}
 
-        for file_name in os.listdir(pdf_dir):
+        for file_name in os.listdir(input_dir):
+            file_path = os.path.join(input_dir, file_name)
+            if not os.path.exists(file_path):
+                print(f"文件 '{file_path}' 不存在。")
+                continue
+
+            # 根据文件扩展名选择相应的处理方法
             if file_name.lower().endswith('.pdf'):
-                file_path = os.path.join(pdf_dir, file_name)
-                if os.path.exists(file_path):
-                    section_data = self.process_pdf(file_path)
-                    if section_data:
-                        result[file_name] = section_data
-                    else:
-                        print(f"未能处理文件 '{file_name}'。")
-                else:
-                    print(f"文件 '{file_path}' 不存在。")
+                section_data = self.process_pdf(file_path)
+            elif file_name.lower().endswith('.txt'):
+                section_data = self.process_txt(file_path)
+            else:
+                continue  # 跳过不支持的文件类型
+
+            if section_data:
+                result[file_name] = section_data
+            else:
+                print(f"未能处理文件 '{file_name}'。")
 
         # Write the result to a JSON file
         try:
@@ -324,4 +370,3 @@ class PDFProcessor:
             print(f"已成功将结果保存到 '{output_json_path}'。")
         except Exception as e:
             print(f"写入JSON文件时出错: {e}")
-
